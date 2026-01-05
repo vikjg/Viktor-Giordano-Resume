@@ -29,16 +29,23 @@ Experience
  MxV Rail - Pueblo, CO (Remote)
 
 Software Developer - June 2024 – Present
+
 •	Leading backend programming efforts for the NUCARS® software suite, a multi-body dynamics engine used in railroad vehicle research such as derailment analysis and failure prediction 
+
 •	Maintaining and extending production Fortran codebases used in safety-critical scenarios such as on-track testing and qualifying vehicles to operate under Federal Railroad Administration requirements
+
 •	Developed and implemented novel software for real-time wheel force measurements using instrumented wheelsets
+
 •	Collaborating with a variety of engineering teams to create unique tools designed to experiment needs
 
 University of Tennessee - Knoxville, TN
 
 Graduate Assistant - Aug 2022 – May 2024
+
 •	Performed game theory and machine learning research alongside the late Dr. Tim Schulze
+
 •	Research focused on determining ideal strategies in the large-scale game of No-Limit Texas Hold’em poker
+
 •	Independently taught multiple sections of Basic Calculus and College Algebra
 
 Bo Jackson Elite Sports - Hilliard, OH
