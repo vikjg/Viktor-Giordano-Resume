@@ -1,6 +1,6 @@
 Viktor Giordano
 
-3601 Township Road 110 • Mount Gilead, OH 43338 • vikjg2002@gmail.com • 740-833-6287 • https://github.com/vikjg
+vikjg2002@gmail.com • 740-833-6287 • https://github.com/vikjg
 
 Summary
 
