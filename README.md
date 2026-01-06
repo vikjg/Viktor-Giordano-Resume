@@ -4,7 +4,7 @@ vikjg2002@gmail.com • 740-833-6287 • https://github.com/vikjg
 
 Summary
 
-Backend software engineer with a mathematics and game-theory background, specializing in simulation and numerical methods.
+Simulation software engineer specializing in multi-body dynamics, numerical methods, and real-time systems. Experience developing safety-critical software for physics-based simulations and applying machine learning to complex optimization problems.
 
 Education
 
@@ -68,6 +68,6 @@ Association for Women in Mathematics - Knoxville, TN
 
 Skills & Interests
 
-Technical: Python, Fortran, C++, Qt, Git, PyTorch (research)
+Technical: Python, Fortran, C++, Qt, Git, PyTorch 
 
 Interests: modeling complex systems, fly fishing, rebuilding engines, golf
