@@ -70,4 +70,4 @@ Skills & Interests
 
 Technical: Python, Fortran, C++, Qt, Git, PyTorch (research)
 
-Interests: Financial engineering, fly fishing, rebuilding engines, golf
+Interests: modeling complex systems, fly fishing, rebuilding engines, golf
